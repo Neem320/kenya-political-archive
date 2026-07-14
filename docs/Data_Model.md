@@ -24,3 +24,5 @@ Person references Source
 Person has Media
 
 Person is related to another Person
+
+## Note: Everything in the system is connected.
